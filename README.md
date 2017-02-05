@@ -4,4 +4,7 @@
     
     效果图：
     
-![](https://github.com/HLyong/mineSweeping/blob/master/gif/1.gif)
+   ![](https://github.com/HLyong/mineSweeping/blob/master/gif/1.gif)
+
+<br>
+链接：https://hlyong.github.io/mineSweeping/
