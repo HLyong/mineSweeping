@@ -1,1 +1,7 @@
 # mineSweeping
+
+    mineSweeping是学习时，用原生js写的一个扫雷小游戏，做了下简单的ui处理
+    
+    效果图：
+    
+![](https://github.com/HLyong/mineSweeping/blob/master/gif/1.gif)
